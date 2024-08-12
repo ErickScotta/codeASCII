@@ -11,7 +11,7 @@ function refresh(conteudo){
     }else{//talvez (largurajanela >= 1280)
         var url = './../contents/extrag.html'
     }
-    
+    alert(url)
     
     var target = conteudo
     var xml = new XMLHttpRequest()
