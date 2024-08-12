@@ -9,7 +9,7 @@ function refresh(conteudo){
     }else if(larguraJanela >= 1025 && larguraJanela <=1280){
         var url = './../contents/gg.html'
     }else{//talvez (largurajanela >= 1280)
-        var url = './../contents/extrag.html'
+        var url = 'contents/extrag.html'
     }
     alert(url)
     
